@@ -211,7 +211,7 @@ public class TestRange extends Range {
 		Range range2 = null;
 		Range range1 = new Range(1, 3);
 		Range actual = Range.combine(range1, range2);
-		assertEquals(range2, actual);
+		assertEquals(range1, actual);
 	}
 
 	/* test case 4 */
