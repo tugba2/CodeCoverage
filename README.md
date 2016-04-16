@@ -1,1 +1,3 @@
-Whitebox testing on JFreeChart
+Whitebox testing on JFreeChart classes data.DataUtilities, data.Range, data.DefaultKeyedValues.
+
+

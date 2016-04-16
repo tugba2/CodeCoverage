@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="var" path="CLOVER_RUNTIME"/>
+	<classpathentry kind="src" path="source"/>
+	<classpathentry kind="lib" path="lib/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.0-rc1-cvs.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/servlet.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Tugba/cs/BBM484 SQA lab/Assignment 3 - artifacts/JFreeChart/lib/jMock/jmock-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Tugba/cs/BBM484 SQA lab/Assignment 3 - artifacts/JFreeChart/lib/jMock/jmock-junit3-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Tugba/cs/BBM484 SQA lab/Assignment 3 - artifacts/JFreeChart/lib/jMock/jmock-junit4-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Tugba/cs/BBM484 SQA lab/Assignment 3 - artifacts/JFreeChart/lib/jMock/jmock-legacy-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Tugba/cs/BBM484 SQA lab/Assignment 3 - artifacts/JFreeChart/lib/jMock/jmock-script-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Tugba/cs/BBM484 SQA lab/Assignment 3 - artifacts/JFreeChart/lib/junit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
